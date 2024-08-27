@@ -1,1 +1,1 @@
-# MIPS
+This project involves designing a 32-bit, 5-stage pipelined MIPS-based RISC core using Harvard Architecture. The processor, divided into datapath, control, and hazard units, executes programs for GCD and factorial calculations, written in MIPS assembly and converted to machine code. Designed in Verilog HDL and simulated with Vivado 2022.2, the project compares the performance of the pipelined MIPS processor with a single-cycle MIPS processor, showcasing the benefits of pipelining in enhancing processing speed and efficiency.
